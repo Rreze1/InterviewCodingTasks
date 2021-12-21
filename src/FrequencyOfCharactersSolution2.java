@@ -1,8 +1,8 @@
 public class FrequencyOfCharactersSolution2 {
     public static void main(String[] args) {
-        System.out.println(FrequencyOfChars("BBCCCFFFDD"));
+        System.out.println(frequencyOfChars("BBCCCFFFDD"));
     }
-    public  static  String  FrequencyOfChars(String str) {
+    public  static  String  frequencyOfChars(String str) {
 
         String expectedResult = "";
 

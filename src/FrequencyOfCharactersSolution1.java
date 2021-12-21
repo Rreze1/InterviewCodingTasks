@@ -4,7 +4,7 @@ public class FrequencyOfCharactersSolution1 {
 
     Ex:  FrequencyOfChars("AAABBCDD") ==> A3B2C1D2
      */
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         System.out.println(FrequencyOfChars("AAABBBCCCCDDDDEE"));
     }
     public static String FrequencyOfChars(String str) {
